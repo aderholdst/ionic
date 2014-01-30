@@ -34,12 +34,12 @@
   position: absolute;
   left: -9999px;
 
-  &:checked + .item-content {
+  &:checked ~ .item-content {
     /* style the item content when its checked */
     background: #f7f7f7;
   }
 
-  &:checked + .item-content .radio-icon {
+  &:checked ~ .radio-icon {
     /* show the checkmark icon when its checked */
     visibility: visible;
   }
