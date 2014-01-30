@@ -9,12 +9,6 @@
   ],
   "description": "Advanced HTML5 hybrid mobile app development framework.",
   "main": [
-    "dist/js/ionic.js",
-    "dist/js/angular/angular.js",
-    "dist/js/angular/angular-animate.js",
-    "dist/js/angular/angular-sanitize.js",
-    "dist/js/angular-ui/angular-ui-router.js",
-    "dist/js/ionic-angular.js",
     "dist/css/ionic.css",
     "dist/fonts/*"
   ],
